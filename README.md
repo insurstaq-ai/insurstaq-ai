@@ -1,16 +1,17 @@
-## Hi there 👋
+# InsurStaq AI
 
-<!--
-**insurstaq-ai/insurstaq-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Private AI security engineer for Mac.**
 
-Here are some ideas to get you started:
+InsurStaq helps developers check code security on macOS, review findings and export evidence. The app runs local security checks and integrates with Claude Code, Cursor, Codex and GitHub Copilot through local MCP plugins.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Website](https://insurstaq.ai)
+- [Security and data flow](https://insurstaq.ai/security)
+- [Vendor review pack](https://insurstaq.ai/vendor-review)
+- [Security contact](https://insurstaq.ai/.well-known/security.txt)
+- [Coding-agent integrations](https://insurstaq.ai/integrations)
+- [Public plugin source](https://github.com/insurstaq-ai/insurstaq-plugins)
+- [Release notes](https://insurstaq.ai/changelog)
+
+InsurStaq is a product of [KarmSakha Limited](https://find-and-update.company-information.service.gov.uk/company/16972140), a UK company incorporated in 2026.
+
+The plugin launchers and manifests are MIT licensed. The InsurStaq app and command-line tool are proprietary software.
